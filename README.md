@@ -9,7 +9,7 @@ Durante o desenvolvimento, foram aplicados conceitos de consumo de APIs REST, tr
 ## 📸 Demonstração
 
 Acesse o projeto:
-🔗 [https://github-profile-finder-seu-deploy.vercel.app/](https://github-profile-finder-blue-delta.vercel.app/)
+🔗 https://github-profile-finder-seu-deploy.vercel.app/
 
 ## 🚀 Funcionalidades
 
